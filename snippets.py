@@ -9,7 +9,7 @@ posts: list[dict] = [
   {
     "id" : 2,
     "author" : "Vijay",
-    "title" : "Lets go, I am goog",
+    "title" : "Lets go, I am good",
     "content" : "Somethings I wonder I could do anything",
     "date_posted" : "August 20, 2026"
   },
